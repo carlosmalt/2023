@@ -48,10 +48,9 @@ main:
   - name: Contact Us
     url: contact
     weight: 40
-  - name: View All Events
-    identifier: events
+  - name: ACM REP
+    url: https://acm-rep.github.io/
     weight: 50
-  - name: AMC REP '23
-    parent: events
-    url: https://acmrep.github.io/2023
-    weight: 10
+  - name: ACM EIGREP
+    url: https://reproducibility.acm.org/
+    weight: 60
