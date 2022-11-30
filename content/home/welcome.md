@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: 2023 ACM Conference on Reproducibility and Independent Verification
+title: 2023 ACM Conference on Reproducibility and Replicability
 subtitle: |
   June 27-29, 2023  
   UC Santa Cruz | Santa Cruz, California | \#acmrep
